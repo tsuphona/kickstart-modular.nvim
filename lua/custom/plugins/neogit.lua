@@ -18,7 +18,7 @@ return {
       status = {
         show_head_commit_hash = true,
         recent_commit_count = 20,
-        HEAD_padding = 10,
+        HEAD_padding = 100,
         HEAD_folded = false,
         mode_padding = 3,
         mode_text = {
